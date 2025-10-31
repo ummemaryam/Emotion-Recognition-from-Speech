@@ -46,3 +46,8 @@ Download from Kaggle
 1) Add more emotion classes from RAVDESS (like calm, fear, surprise).
 2) Improve model accuracy using Mel-spectrograms.
 3) Deploy as a real-time web or mobile app.
+
+# Output 
+![1](https://github.com/user-attachments/assets/3a72df26-f0c3-4e60-a377-eef271357b11)
+![2](https://github.com/user-attachments/assets/9ff37080-7ac3-4cf2-9660-c4c8a1809fe2)
+
